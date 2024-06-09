@@ -6,7 +6,7 @@
   <link href="https://d-sketon.github.io/atom.xml" rel="self"/>
   
   <link href="https://d-sketon.github.io/"/>
-  <updated>2024-06-09T06:12:11.277Z</updated>
+  <updated>2024-06-09T06:55:02.833Z</updated>
   <id>https://d-sketon.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://d-sketon.github.io/20240601/hexo-theme-reimu-log/"/>
     <id>https://d-sketon.github.io/20240601/hexo-theme-reimu-log/</id>
     <published>2024-06-01T11:58:38.000Z</published>
-    <updated>2024-06-09T06:12:11.277Z</updated>
+    <updated>2024-06-09T06:55:02.833Z</updated>
     
     
       
@@ -29,8 +29,9 @@
         
         
     <summary type="html">&lt;p&gt;hexo-theme-reimu 的开发日志&lt;/p&gt;
-&lt;h2 id=&quot;v020wip&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#v020wip&quot;&gt;&lt;/a&gt; v0.2.0(WIP)&lt;/h2&gt;
-&lt;h3 id=&quot;修复&quot;&gt;&lt;a</summary>
+&lt;h2 id=&quot;v020&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#v020&quot;&gt;&lt;/a&gt; v0.2.0&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;0.2.0</summary>
         
       
     
@@ -148,7 +149,7 @@
     <link href="https://d-sketon.github.io/20230707/hexo-theme-reimu-guide/"/>
     <id>https://d-sketon.github.io/20230707/hexo-theme-reimu-guide/</id>
     <published>2023-07-07T15:02:43.000Z</published>
-    <updated>2024-06-01T16:15:00.151Z</updated>
+    <updated>2024-06-09T07:11:37.998Z</updated>
     
     
       
