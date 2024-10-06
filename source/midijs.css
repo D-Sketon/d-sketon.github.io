@@ -1,49 +1,50 @@
 .midiline {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    min-height: 5px;
-    background: black;
-    opacity: 0.5;
-    position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-height: 5px;
+  background: black;
+  opacity: 0.5;
+  position: relative;
+  border-radius: 5px;
 }
 
 .midiball {
-    position: absolute;
-    background: rgb(255, 255, 255);
-    border-radius: 50%;
-    border: 1px black solid;
-    min-width: 15px;
-    min-height: 15px;
-    max-width: 15px;
-    left :-7.5px;
-    box-shadow: inset -1px -1px 5px 0 rgba(0, 0, 0, 0.5);
+  position: absolute;
+  background: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 1px black solid;
+  min-width: 15px;
+  min-height: 15px;
+  max-width: 15px;
+  left: -7.5px;
+  box-shadow: inset -1px -1px 5px 0 rgba(0, 0, 0, 0.5);
 }
 
 .miditime {
-    margin-left: 10px;
-    margin-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .midistop {
-    background: url("./midijs_button.png") -64px 0 no-repeat;
-    background-color: rgb(202, 202, 202);
+  background: url("./midijs_button.png") -64px 0 no-repeat;
+  background-color: rgb(202, 202, 202);
 }
 
 .midipause {
-    background: url("./midijs_button.png") -32px 0 no-repeat;
-    background-color: rgb(202, 202, 202);
+  background: url("./midijs_button.png") -32px 0 no-repeat;
+  background-color: rgb(202, 202, 202);
 }
 
 .midiplay {
-    background: url("./midijs_button.png") 0 0 no-repeat;
-    background-color: rgb(202, 202, 202);
+  background: url("./midijs_button.png") 0 0 no-repeat;
+  background-color: rgb(202, 202, 202);
 }
 
 .midibutton {
-    min-width: 32px;
-    min-height: 32px;
-    border-radius: 50%;
-    margin-left: 5px;
-    margin-right: 5px;
+  min-width: 32px;
+  min-height: 32px;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-right: 5px;
 }
