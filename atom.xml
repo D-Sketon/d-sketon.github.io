@@ -6,7 +6,7 @@
   <link href="https://d-sketon.github.io/atom.xml" rel="self"/>
   
   <link href="https://d-sketon.github.io/"/>
-  <updated>2024-09-21T04:12:51.200Z</updated>
+  <updated>2024-10-06T09:04:15.039Z</updated>
   <id>https://d-sketon.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo-tag-echarts-new插件Demo</title>
+    <link href="https://d-sketon.github.io/20241006/hexo-echarts-demo/"/>
+    <id>https://d-sketon.github.io/20241006/hexo-echarts-demo/</id>
+    <published>2024-10-06T08:57:18.000Z</published>
+    <updated>2024-10-06T09:04:15.039Z</updated>
+    
+    
+    <summary type="html">exo-tag-echarts-new插件Demo</summary>
+    
+    
+    
+    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="Hexo" scheme="https://d-sketon.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo-theme-reimu开发日志</title>
@@ -433,27 +452,6 @@
     
     
     <summary type="html">深入理解计算机系统（CSAPP）中BombLab的实验详解。</summary>
-    
-    
-    
-    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="CSAPP" scheme="https://d-sketon.github.io/tags/CSAPP/"/>
-    
-    <category term="深入理解计算机系统" scheme="https://d-sketon.github.io/tags/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CSAPP - MallocLab</title>
-    <link href="https://d-sketon.github.io/20220619/csapp-malloclab/"/>
-    <id>https://d-sketon.github.io/20220619/csapp-malloclab/</id>
-    <published>2022-06-19T07:59:51.000Z</published>
-    <updated>2023-01-17T03:28:59.770Z</updated>
-    
-    
-    <summary type="html">深入理解计算机系统（CSAPP）中MallocLab的实验详解。</summary>
     
     
     
