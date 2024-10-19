@@ -6,7 +6,7 @@
   <link href="https://d-sketon.github.io/atom.xml" rel="self"/>
   
   <link href="https://d-sketon.github.io/"/>
-  <updated>2024-10-07T05:38:44.332Z</updated>
+  <updated>2024-10-19T13:00:41.853Z</updated>
   <id>https://d-sketon.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 博客性能优化指南 - 以 hexo-theme-reimu 为例</title>
+    <link href="https://d-sketon.github.io/20241019/hexo-performance-optimization-guide/"/>
+    <id>https://d-sketon.github.io/20241019/hexo-performance-optimization-guide/</id>
+    <published>2024-10-19T10:04:49.000Z</published>
+    <updated>2024-10-19T13:00:41.853Z</updated>
+    
+    
+    <summary type="html">本文以hexo-theme-reimu为例，介绍了博客性能优化的方法。</summary>
+    
+    
+    
+    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="hexo" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://d-sketon.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo-midijs插件Demo</title>
@@ -429,27 +450,6 @@
     
     
     <summary type="html">测试Java8和Java11下Hotspot和Openj9虚拟机对于Minecraft服务端spigot端的性能影响</summary>
-    
-    
-    
-    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="Minecraft" scheme="https://d-sketon.github.io/tags/Minecraft/"/>
-    
-    <category term="spigot" scheme="https://d-sketon.github.io/tags/spigot/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ubuntu下安装spigot搭建Minecraft服务器</title>
-    <link href="https://d-sketon.github.io/20220701/minecraft-server-install/"/>
-    <id>https://d-sketon.github.io/20220701/minecraft-server-install/</id>
-    <published>2022-07-01T08:49:08.000Z</published>
-    <updated>2023-01-17T04:45:38.817Z</updated>
-    
-    
-    <summary type="html">Ubuntu下安装spigot搭建Minecraft1.16.5服务器，从java的安装,git的安装,spigot的的构建到服务器的上线</summary>
     
     
     
