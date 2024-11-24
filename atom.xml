@@ -6,7 +6,7 @@
   <link href="https://d-sketon.github.io/atom.xml" rel="self"/>
   
   <link href="https://d-sketon.github.io/"/>
-  <updated>2024-11-16T06:45:24.524Z</updated>
+  <updated>2024-11-24T06:07:30.277Z</updated>
   <id>https://d-sketon.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何定制你的hexo-theme-reimu</title>
+    <link href="https://d-sketon.github.io/20241124/hexo-theme-reimu-customize/"/>
+    <id>https://d-sketon.github.io/20241124/hexo-theme-reimu-customize/</id>
+    <published>2024-11-24T05:12:54.000Z</published>
+    <updated>2024-11-24T06:07:30.277Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文针对 v0.3.6+ 版本的 hexo-theme-reimu 主题，介绍如何通过 CSS 变量定制你的主题颜色。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="hexo" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://d-sketon.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>astro-theme-reimu 演示站点</title>
@@ -51,7 +72,7 @@
     <link href="https://d-sketon.github.io/20241110/hexo-to-hugo-guide/"/>
     <id>https://d-sketon.github.io/20241110/hexo-to-hugo-guide/</id>
     <published>2024-11-10T15:15:08.000Z</published>
-    <updated>2024-11-23T07:23:43.524Z</updated>
+    <updated>2024-11-24T04:27:17.441Z</updated>
     
     
     <summary type="html">&lt;p&gt;本文记录了 hugo-theme-reimu 主题和 hexo-theme-reimu 主题的区别，以及如何将 hexo-theme-reimu 主题的文章迁移到 hugo-theme-reimu 主题。&lt;/p&gt;</summary>
@@ -155,7 +176,7 @@
     <link href="https://d-sketon.github.io/20240114/hexo-theme-reimu-content/"/>
     <id>https://d-sketon.github.io/20240114/hexo-theme-reimu-content/</id>
     <published>2024-01-14T13:15:35.000Z</published>
-    <updated>2024-11-23T07:22:47.585Z</updated>
+    <updated>2024-11-24T06:09:31.353Z</updated>
     
     
     <summary type="html">hexo-theme-reimu效果展示</summary>
@@ -424,27 +445,6 @@
     
     
     <category term="Hexo" scheme="https://d-sketon.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数据库系统概念 学习笔记</title>
-    <link href="https://d-sketon.github.io/20220816/db-book-note/"/>
-    <id>https://d-sketon.github.io/20220816/db-book-note/</id>
-    <published>2022-08-16T07:48:09.000Z</published>
-    <updated>2023-01-28T05:34:00.545Z</updated>
-    
-    
-    <summary type="html">本笔记整理来自于《数据库系统概念》，可能会有疏漏的部分，敬请谅解</summary>
-    
-    
-    
-    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="学习笔记" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="数据库" scheme="https://d-sketon.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
