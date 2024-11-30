@@ -6,7 +6,7 @@
   <link href="https://d-sketon.github.io/atom.xml" rel="self"/>
   
   <link href="https://d-sketon.github.io/"/>
-  <updated>2024-11-24T06:07:30.277Z</updated>
+  <updated>2024-11-30T14:18:27.885Z</updated>
   <id>https://d-sketon.github.io/</id>
   
   <author>
@@ -21,10 +21,10 @@
     <link href="https://d-sketon.github.io/20241124/hexo-theme-reimu-customize/"/>
     <id>https://d-sketon.github.io/20241124/hexo-theme-reimu-customize/</id>
     <published>2024-11-24T05:12:54.000Z</published>
-    <updated>2024-11-24T06:07:30.277Z</updated>
+    <updated>2024-11-30T14:18:27.885Z</updated>
     
     
-    <summary type="html">&lt;p&gt;本文针对 v0.3.6+ 版本的 hexo-theme-reimu 主题，介绍如何通过 CSS 变量定制你的主题颜色。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;本文针对 v1.0.0+ 版本的 hexo-theme-reimu 主题，介绍如何定制你的 hexo-theme-reimu。&lt;/p&gt;</summary>
     
     
     
@@ -154,7 +154,7 @@
     <link href="https://d-sketon.github.io/20240601/hexo-theme-reimu-log/"/>
     <id>https://d-sketon.github.io/20240601/hexo-theme-reimu-log/</id>
     <published>2024-06-01T11:58:38.000Z</published>
-    <updated>2024-11-23T07:33:54.791Z</updated>
+    <updated>2024-11-30T16:37:53.464Z</updated>
     
     
     <summary type="html">&lt;p&gt;hexo-theme-reimu 的开发日志，记录了每一次更新的内容&lt;/p&gt;
@@ -176,7 +176,7 @@
     <link href="https://d-sketon.github.io/20240114/hexo-theme-reimu-content/"/>
     <id>https://d-sketon.github.io/20240114/hexo-theme-reimu-content/</id>
     <published>2024-01-14T13:15:35.000Z</published>
-    <updated>2024-11-29T14:07:00.657Z</updated>
+    <updated>2024-11-30T11:15:35.579Z</updated>
     
     
     <summary type="html">hexo-theme-reimu效果展示</summary>
@@ -274,7 +274,7 @@
     <link href="https://d-sketon.github.io/20230707/hexo-theme-reimu-guide/"/>
     <id>https://d-sketon.github.io/20230707/hexo-theme-reimu-guide/</id>
     <published>2023-07-07T15:02:43.000Z</published>
-    <updated>2024-11-16T06:49:33.282Z</updated>
+    <updated>2024-11-30T16:34:46.961Z</updated>
     
     
       
