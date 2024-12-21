@@ -6,7 +6,7 @@
   <link href="https://d-sketon.github.io/atom.xml" rel="self"/>
   
   <link href="https://d-sketon.github.io/"/>
-  <updated>2024-12-14T12:07:24.254Z</updated>
+  <updated>2024-12-21T08:23:56.736Z</updated>
   <id>https://d-sketon.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024年 JavaScript Promise 性能对比</title>
+    <link href="https://d-sketon.github.io/20241221/2024-promise-performance-benchmark/"/>
+    <id>https://d-sketon.github.io/20241221/2024-promise-performance-benchmark/</id>
+    <published>2024-12-21T06:57:17.000Z</published>
+    <updated>2024-12-21T08:23:56.736Z</updated>
+    
+    
+    <summary type="html">本文对 2024 年 JavaScript Promise 的性能进行对比，看看这几年 Node 原生 Promise 的性能有没有提升？后起之秀 Bun 的 Promise 实现又有怎样的表现？</summary>
+    
+    
+    
+    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="JavaScript" scheme="https://d-sketon.github.io/tags/JavaScript/"/>
+    
+  </entry>
   
   <entry>
     <title>如何定制你的hexo-theme-reimu</title>
@@ -116,7 +135,7 @@
     <link href="https://d-sketon.github.io/20241006/hexo-midijs-demo/"/>
     <id>https://d-sketon.github.io/20241006/hexo-midijs-demo/</id>
     <published>2024-10-06T11:02:26.000Z</published>
-    <updated>2024-10-07T05:38:44.332Z</updated>
+    <updated>2024-12-21T06:59:56.821Z</updated>
     
     
     <summary type="html">hexo-midijs插件Demo</summary>
@@ -423,25 +442,6 @@
     <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
     
     <category term="hexo" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/hexo/"/>
-    
-    
-    <category term="Hexo" scheme="https://d-sketon.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo-minecraft-skin-viewer插件Demo</title>
-    <link href="https://d-sketon.github.io/20220902/hexo-mcskin-demo/"/>
-    <id>https://d-sketon.github.io/20220902/hexo-mcskin-demo/</id>
-    <published>2022-09-02T08:45:12.000Z</published>
-    <updated>2024-10-06T10:24:46.040Z</updated>
-    
-    
-    <summary type="html">hexo-minecraft-skin-viewer插件Demo</summary>
-    
-    
-    
-    <category term="计软杂谈" scheme="https://d-sketon.github.io/categories/%E8%AE%A1%E8%BD%AF%E6%9D%82%E8%B0%88/"/>
     
     
     <category term="Hexo" scheme="https://d-sketon.github.io/tags/Hexo/"/>
